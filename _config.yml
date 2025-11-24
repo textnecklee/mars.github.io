@@ -24,6 +24,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/textnecklee"
+# 검색 기능 설정
+search: true
+search_full_content: true # 글 내용까지 전부 검색할지 여부
+search_provider: lunr # 별도 설치 필요 없는 가벼운 검색 엔진
+
+# 파비콘 설정 (브라우저 탭 아이콘)
+favicon: "/mars.github.io/assets/images/logo.jpg"
 
 # 모양 설정
 minimal_mistakes_skin: "default" # 취향에 따라 air, contrast, sunrise 등으로 변경 가능
