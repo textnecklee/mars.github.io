@@ -1,6 +1,6 @@
 ---
 title: "WELCOME TO METAROBOT"
-excerpt: "메타로봇 연구회 소개 및 활동 내역"
+excerpt: "메타로봇 연구회 공식 포트폴리오"
 categories:
   - Project
 tags:
@@ -9,35 +9,47 @@ tags:
 
 header:
   teaser: /assets/images/logo.jpg
-  overlay_filter: 0.5 # 배경이 어둡게 깔리면서 글자가 선명해짐
+  overlay_image: /assets/images/logo.jpg
+  overlay_filter: 0.5
+  caption: "Engineering the Future with **METAROBOT**"
 
 last_modified_at: 2025-11-24
-toc: true             # 우측 목차 생성
-toc_sticky: true      # 목차 따라오기
+toc: true
+toc_sticky: true
+toc_label: "CONTENTS"
 ---
 
-## 1. WE ARE METAROBOT
+<div class="notice--primary" style="text-align: center;">
+  <h2 style="margin-top: 10px;">WE ARE METAROBOT</h2>
+  <p style="font-size: 1.2em; font-weight: bold; color: #555;">"Degree Of Freedom"</p>
+  <hr style="width: 50%; margin: 10px auto;">
+  <p>
+    메타버스와 로봇 융합 기술 연구를 목적으로 창립된<br>
+    <strong>KOREATECH 소속 메타로봇연구회 MarsLab</strong>입니다.
+  </p>
+  <p>
+    <strong>AI · CONTROL · HARDWARE</strong><br>
+    세 부서가 협력하여 로봇을 직접 설계·제작·제어하며<br>
+    로봇 엔지니어로서의 꿈을 실현해 나갑니다.
+  </p>
+</div>
 
-> **"Degree Of Freedom"**
+<br>
 
-메타버스와 로봇 융합 기술 연구를 목적으로 창립된 **KOREATECH 소속 메타로봇연구회 MarsLab**입니다.  
-**AI, CONTROL, HARDWARE** 세 부서가 협력하여 전문 지식을 나누는 것에 그치지 않고, 직접 로봇을 설계·제작·제어하며 로봇 엔지니어로서의 꿈을 실현해 나갑니다.
-
----
-
-## 2. METAROBOT'S 2025
-
-2025년도 METAROBOT이 수행한 주요 프로젝트와 연구 활동입니다.
+## 🏆 METAROBOT'S 2025
+<div style="text-align: center; margin-bottom: 20px;">
+  2025년도 METAROBOT이 걸어온 끊임없는 도전의 기록입니다.
+</div>
 
 | **Activity / Project** | **Department** |
 |:--- |:---:|
-| **RED SHOW** <br> Two Reg Wheel Balance Robot | AI / CTRL / HW |
-| **Zeus Zero Robot Mission Challenge** <br> *Presidential Award (대통령상)* 🏆 | AI / CTRL / HW |
+| **RED SHOW** (Two Wheel Balance Robot) | AI / CTRL / HW |
+| **Zeus Zero Robot Mission Challenge** 🥇<br>*Presidential Award (대통령상)* | AI / CTRL / HW |
 | **Genesis Study** | AI |
-| **Isaac Sim Sim2Real Study** (Summer) <br> Two Wheel Balance Robot | AI / CTRL |
+| **Sim2Real Study** (Isaac Sim) | AI / CTRL |
 | **Xenomai & Raspberry Pi Study** | CONTROL |
-| **Industry-Academic Project** <br> Master Device with NEUROMECHA | AI / CTRL / HW |
-| **Industry-Academic Project** <br> Indy Hand with NEUROMECHA | AI / CTRL / HW |
+| **Master Device Project** (with NEUROMECHA) | AI / CTRL / HW |
+| **Indy Hand Project** (with NEUROMECHA) | AI / CTRL / HW |
 | **Slave Robot Project** | CTRL / HW |
 | **Metarobot Competition** | CTRL / HW |
 | **Koreatech Start-up Contest** | AI / CTRL / HW |
@@ -45,38 +57,57 @@ toc_sticky: true      # 목차 따라오기
 | **Metarobot Workshop** | - |
 | **New Member Training** | - |
 
----
+<br>
 
-## 3. METAROBOT RESOURCE
+## ⚙️ METAROBOT RESOURCES
+<div style="text-align: center;">
+  학교와 기업의 지원을 통해 <strong>현업 수준의 High-End Resource</strong>를 보유하고 있습니다.<br>
+  연구회원이라면 누구나 자유롭게 활용 가능합니다.
+</div>
 
-**METAROBOT**은 학교와 여러 단체의 지원을 받아 연구에 필요한 **High-End Resource**를 보유하고 있습니다.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: center;">
 
-**Notice:** 아래 장비들은 연구회원이라면 누구나 프로젝트에 활용할 수 있습니다.
-{: .notice--info}
+  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+    <h3 style="text-align: center; margin-top: 0;">⚡ Computing</h3>
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+      <li><strong>NVIDIA Jetson AGX Thor</strong></li>
+      <li>NVIDIA Jetson AGX Orin</li>
+      <li>NVIDIA Jetson Orin Nano</li>
+      <li>Raspberry Pi 5 (Multiple)</li>
+      <li>Synology NAS (Server)</li>
+      <li>RTX 4060 SUPER WS</li>
+    </ul>
+  </div>
 
-### ⚡ Computing & Controller
-* **NVIDIA Jetson AGX Thor** Developer Kit
-* **NVIDIA Jetson AGX Orin** 64GB Developer Kit
-* **NVIDIA Jetson Orin Nano** Super Developer Kit
-* **Raspberry Pi 5** (Multiple Units)
-* **Synology NAS** 2Bay (Data Server)
-* **RTX 4060 SUPER** Workstation
+  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+    <h3 style="text-align: center; margin-top: 0;">🦾 Actuators</h3>
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+      <li><strong>Indy7 (Neuromecha)</strong></li>
+      <li>UR Manipulator</li>
+      <li>Dynamixel (Various)</li>
+      <li>High-Torque DC Motors</li>
+      <li>BLDC Motors & Drivers</li>
+    </ul>
+  </div>
 
-### 🦾 Robotics & Actuator
-* **Indy7** (Neuromecha Cobot)
-* **UR Manipulator**
-* **Dynamixel** (Various Models)
-* Various DC/BLDC Motors & Drivers
+  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+    <h3 style="text-align: center; margin-top: 0;">🛠️ Sensors & Mfg</h3>
+    <ul style="font-size: 0.9em; padding-left: 20px;">
+      <li><strong>Bambu Lab H2D</strong></li>
+      <li>RealSense D435i</li>
+      <li>LiDAR Sensors</li>
+      <li>DAQ System</li>
+      <li>High-End Power Supply</li>
+    </ul>
+  </div>
 
-### 🛠️ Manufacturing & Sensors
-* **Bambu Lab H2D** (High-speed 3D Printer)
-* **RealSense D435i** (Depth Camera)
-* **LiDAR** Sensors
-* DAQ (Data Acquisition) & High-End Power Supply
+</div>
+<br>
+<hr>
 
----
-
-<div style="text-align: center; margin-top: 50px;">
-  <h3>🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
-  <p>Make your imagination a reality with METAROBOT.</p>
+<div style="text-align: center; margin-top: 50px; margin-bottom: 50px;">
+  <h3 style="font-weight: 900;">🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
+  <p style="color: #666; margin-bottom: 30px;">Make your imagination a reality with METAROBOT.</p>
+  
+  <a href="mailto:your-email@example.com" class="btn btn--primary btn--large">Contact Us</a>
 </div>
