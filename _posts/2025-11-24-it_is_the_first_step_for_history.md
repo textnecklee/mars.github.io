@@ -41,8 +41,10 @@ toc_label: "CONTENTS"
   2025년도 METAROBOT이 걸어온 끊임없는 도전의 기록입니다.
 </div>
 
+<div align="center" markdown="1">
+
 | **Activity / Project** | **Department** |
-|:--- |:---:|
+|:---:|:---:|
 | **RED SHOW** (Two Wheel Balance Robot) | AI / CTRL / HW |
 | **Zeus Zero Robot Mission Challenge** 🥇<br>*Presidential Award (대통령상)* | AI / CTRL / HW |
 | **Genesis Study** | AI |
@@ -57,6 +59,7 @@ toc_label: "CONTENTS"
 | **Metarobot Workshop** | - |
 | **New Member Training** | - |
 
+</div>
 <br>
 
 ## ⚙️ METAROBOT RESOURCES
@@ -102,12 +105,12 @@ toc_label: "CONTENTS"
   </div>
 
 </div>
+
 <br>
 <hr>
 
 <div style="text-align: center; margin-top: 50px; margin-bottom: 50px;">
   <h3 style="font-weight: 900;">🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
   <p style="color: #666; margin-bottom: 30px;">Make your imagination a reality with METAROBOT.</p>
-  
   <a href="mailto:your-email@example.com" class="btn btn--primary btn--large">Contact Us</a>
 </div>
