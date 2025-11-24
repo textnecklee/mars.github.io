@@ -1,60 +1,82 @@
 ---
 title: "WELCOME TO METAROBOT"
-excerpt: "메타로봇 소개"
+excerpt: "메타로봇 연구회 소개 및 활동 내역"
 categories:
   - Project
 tags:
-  - test
+  - Intro
+  - Portfolio
 
 header:
-  teaser: /assets/images/logo.jpg  # 대표 사진 경로 (전체 경로 추천)
+  teaser: /assets/images/logo.jpg
+  overlay_filter: 0.5 # 배경이 어둡게 깔리면서 글자가 선명해짐
 
 last_modified_at: 2025-11-24
+toc: true             # 우측 목차 생성
+toc_sticky: true      # 목차 따라오기
 ---
 
-## WE ARE METAROBOT
+## 1. WE ARE METAROBOT
 
-## WHAT IS THE METAROBOT
- Degree Of Freedom 
+> **"Degree Of Freedom"**
 
- 메타버스와 로봇 융합 기술 연구를 목적으로 창립된 KOREATECH 소속 메타로봇연구회 MarsLab입니다.
- AI부서 CONTROL부서 HARDWARE부서로 나뉘어져 전문성을 기르고 공부하고 나누는 데 그치지 않고 직접 로봇을 제작하고 제어해보며 로봇에 대한 꿈을 키워갑니다.
+메타버스와 로봇 융합 기술 연구를 목적으로 창립된 **KOREATECH 소속 메타로봇연구회 MarsLab**입니다.  
+**AI, CONTROL, HARDWARE** 세 부서가 협력하여 전문 지식을 나누는 것에 그치지 않고, 직접 로봇을 설계·제작·제어하며 로봇 엔지니어로서의 꿈을 실현해 나갑니다.
 
-## METAROBOT'S 2025
+---
 
-2025년도 METAROBOT이 진행한 활동은 아래와 같습니다.
+## 2. METAROBOT'S 2025
 
-* RED SHOW | TWO REG WHEEL BALANCE ROBOT [ AI / CONTROL / HARDWARE ]
-* ZEUS ZERO ROBOT MISSION CHALLENGE | Presidential Award [ AI / CONTROL / HARDWARE ]
-* GENESIS STUDY [ AI ] 
-* ISAACSIM SIM2REAL STUDY(SUMMER VACATION) | TWO WHEEL BALANCE ROBOT [ AI / CONTROL ]
-* Xenomai&Raspberry Pi STUDY(SUMMER VACATION ~) [ CONTROL ]
-* Industry-Academic PROJECT | MASTER DEVICE with NEUROMECHA [ AI / CONTROL / HARDWARE ] 
-* Industry-Academic PROJECT | INDY HAND with NEUROMECHA [ AI / CONTROL / HARDWARE ] 
-* SLAVE ROBOT PROJECT [CONTROL / HARDWARE]
-* METAROBOT COMPETITION [CONTROL / HARDWARE]
-* KOREATECH START-UP CONTEST [ AI / CONTROL / HARDWARE ]
-* ROBO WORLD EXPO
-* METAROBOT WORKSHOP
-* NEW MEMBER TRAINING
+2025년도 METAROBOT이 수행한 주요 프로젝트와 연구 활동입니다.
 
-## METAROBOT RESOURCE
-METAROBOT은 여러 단체의 지원을 받아 풍부하고 쉽게 접하기 힘든 자원들을 소유하고 있습니다.
+| **Activity / Project** | **Department** |
+|:--- |:---:|
+| **RED SHOW** <br> Two Reg Wheel Balance Robot | AI / CTRL / HW |
+| **Zeus Zero Robot Mission Challenge** <br> *Presidential Award (대통령상)* 🏆 | AI / CTRL / HW |
+| **Genesis Study** | AI |
+| **Isaac Sim Sim2Real Study** (Summer) <br> Two Wheel Balance Robot | AI / CTRL |
+| **Xenomai & Raspberry Pi Study** | CONTROL |
+| **Industry-Academic Project** <br> Master Device with NEUROMECHA | AI / CTRL / HW |
+| **Industry-Academic Project** <br> Indy Hand with NEUROMECHA | AI / CTRL / HW |
+| **Slave Robot Project** | CTRL / HW |
+| **Metarobot Competition** | CTRL / HW |
+| **Koreatech Start-up Contest** | AI / CTRL / HW |
+| **Robo World Expo** | - |
+| **Metarobot Workshop** | - |
+| **New Member Training** | - |
 
-* NVIDIA Jetson AGX Thor Developer Kit
-* NVIDIA® Jetson AGX Orin™ 64GB Developer Kit
-* NVIDIA Jetson Orin Nano Super Developer Kit 
-* INDY7
-* UR MANIPULATOR
-* RTX 4060 SUPER
-* Bambu Lab H2D
-* SYNOLOGY NAS 2BAY
-* VARIOUS DYNAMIXEL
-* REALSENSE D435I
-* LIDAR 
-* RASPBERRY PI 5
-ETC 
+---
 
-이 밖에도 최신 POWER SUPPLY, 다량의 아두이노, DAQ, MOTOR 등 모자람 없는 자원을 구비하여 역량을 아낌없이 펼칠 수 있게하고 있습니다.
+## 3. METAROBOT RESOURCE
 
-## ROBOT에 가슴이 뛰는 여러분을 기다리고 있겠습니다.
+**METAROBOT**은 학교와 여러 단체의 지원을 받아 연구에 필요한 **High-End Resource**를 보유하고 있습니다.
+
+**Notice:** 아래 장비들은 연구회원이라면 누구나 프로젝트에 활용할 수 있습니다.
+{: .notice--info}
+
+### ⚡ Computing & Controller
+* **NVIDIA Jetson AGX Thor** Developer Kit
+* **NVIDIA Jetson AGX Orin** 64GB Developer Kit
+* **NVIDIA Jetson Orin Nano** Super Developer Kit
+* **Raspberry Pi 5** (Multiple Units)
+* **Synology NAS** 2Bay (Data Server)
+* **RTX 4060 SUPER** Workstation
+
+### 🦾 Robotics & Actuator
+* **Indy7** (Neuromecha Cobot)
+* **UR Manipulator**
+* **Dynamixel** (Various Models)
+* Various DC/BLDC Motors & Drivers
+
+### 🛠️ Manufacturing & Sensors
+* **Bambu Lab H2D** (High-speed 3D Printer)
+* **RealSense D435i** (Depth Camera)
+* **LiDAR** Sensors
+* DAQ (Data Acquisition) & High-End Power Supply
+
+---
+
+<div style="text-align: center; margin-top: 50px;">
+  <h3>🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
+  <p>Make your imagination a reality with METAROBOT.</p>
+</div>
