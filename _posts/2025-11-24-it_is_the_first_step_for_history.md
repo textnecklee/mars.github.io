@@ -21,13 +21,13 @@ toc_label: "CONTENTS"
 
 <div class="notice--primary" style="text-align: center;">
   <h2 style="margin-top: 10px;">WE ARE METAROBOT</h2>
-  <p style="font-size: 1.2em; font-weight: bold; color: #555;">"Degree Of Freedom"</p>
+  <p style="font-size: 3.5em; font-weight: bold; color: #555;">"Degree Of Freedom"</p>
   <hr style="width: 50%; margin: 10px auto;">
-  <p style="font-size: 1.05em;">
+  <p style="font-size: 2.5em;">
     메타버스와 로봇 융합 기술 연구를 목적으로 창립된<br>
     <strong>KOREATECH 소속 메타로봇연구회 MarsLab</strong>입니다.
   </p>
-  <p style="font-size: 1.05em;">
+  <p style="font-size: 1.5em;">
     <strong>AI · CONTROL · HARDWARE</strong><br>
     세 부서가 협력하여 로봇을 직접 설계·제작·제어하며<br>
     로봇 엔지니어로서의 꿈을 실현해 나갑니다.
@@ -38,7 +38,7 @@ toc_label: "CONTENTS"
 
 <h2 style="font-size: 2.0em; text-align: center; font-weight: 900; margin-bottom: 10px;">🏆 METAROBOT'S 2025</h2>
 
-<div style="max-width: 850px; margin: 0 auto; text-align: center;">
+<div style="max-width: 850px; margin: 0 auto; text-align: center; position: relative; left: 40px;">
   <p style="margin-bottom: 25px; font-size: 1.1em; color: #666;">
     2025년도 METAROBOT이 걸어온 끊임없는 도전의 기록입니다.
   </p>
