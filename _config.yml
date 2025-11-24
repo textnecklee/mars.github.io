@@ -13,14 +13,14 @@ plugins:
 
 # 작성자(연구회) 정보
 author:
-  name   : "Metarobot Team"  # 동아리 이름
+  name   : "Metarobot labotary"  # 동아리 이름
   avatar : "https://textnecklee.github.io/mars.github.io/assets/images/logo.jpg" # 아까 올린 로고 사진 경로
-  bio    : "자율주행 및 로봇 제어 연구회" # 간단한 소개
+  bio    : "로봇 연구회" # 간단한 소개
   location : "KoreaTech, KR" # 학교/지역
   links:
-    - label: "Email"
+    - label: "Email :  metarobot0710@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your-email@example.com" # 동아리 대표 메일
+      url: "mailto:metarobot0710@gmail.com" # 동아리 대표 메일
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/textnecklee"
