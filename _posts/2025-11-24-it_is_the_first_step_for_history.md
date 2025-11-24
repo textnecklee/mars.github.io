@@ -40,7 +40,7 @@ toc_label: "CONTENTS"
 
 <div style="max-width: 850px; margin: 0 auto; text-align: center;">
   
-  <p style="margin-bottom: 25px; font-size: 1.1em; color: #666;">
+  <p style="margin-bottom: 22px; font-size: 1.1em; color: #666;">
     2025년도 METAROBOT이 걸어온 끊임없는 도전의 기록입니다.
   </p>
 
