@@ -6,6 +6,10 @@ categories:
 tags:
   - RobotArm
   - 3DPrint
+
+header:
+  teaser: /mars.github.io/assets/images/logo.jpg  # 대표 사진 경로 (전체 경로 추천)
+
 last_modified_at: 2025-11-24
 ---
 

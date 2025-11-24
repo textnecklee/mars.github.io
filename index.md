@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: "Home"
-author_profile: true
+layout: archive        # 지난번에 바꾼 것 그대로 (상단바 나오게 유지)
+title: "Metarobot Projects"
+author_profile: true   # 왼쪽 프로필 유지
+
+entries_layout: grid   # <--- 핵심! (리스트 대신 그리드 박스로 보여줌)
+classes: wide          # <--- (선택) 화면을 더 넓게 써서 시원하게 보여줌
 ---
 
 # 🤖 Metarobot 연구회에 오신 것을 환영합니다.
