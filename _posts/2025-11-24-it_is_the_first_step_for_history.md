@@ -23,11 +23,11 @@ toc_label: "CONTENTS"
   <h2 style="margin-top: 10px;">WE ARE METAROBOT</h2>
   <p style="font-size: 1.2em; font-weight: bold; color: #555;">"Degree Of Freedom"</p>
   <hr style="width: 50%; margin: 10px auto;">
-  <p>
+  <p style="font-size: 1.05em;">
     메타버스와 로봇 융합 기술 연구를 목적으로 창립된<br>
     <strong>KOREATECH 소속 메타로봇연구회 MarsLab</strong>입니다.
   </p>
-  <p>
+  <p style="font-size: 1.05em;">
     <strong>AI · CONTROL · HARDWARE</strong><br>
     세 부서가 협력하여 로봇을 직접 설계·제작·제어하며<br>
     로봇 엔지니어로서의 꿈을 실현해 나갑니다.
@@ -37,42 +37,86 @@ toc_label: "CONTENTS"
 <br>
 
 ## 🏆 METAROBOT'S 2025
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 25px; font-size: 1.1em; color: #666;">
   2025년도 METAROBOT이 걸어온 끊임없는 도전의 기록입니다.
 </div>
 
-<div align="center" markdown="1">
-
-| **Activity / Project** | **Department** |
-|:---:|:---:|
-| **RED SHOW** (Two Wheel Balance Robot) | AI / CTRL / HW |
-| **Zeus Zero Robot Mission Challenge** 🥇<br>*Presidential Award (대통령상)* | AI / CTRL / HW |
-| **Genesis Study** | AI |
-| **Sim2Real Study** (Isaac Sim) | AI / CTRL |
-| **Xenomai & Raspberry Pi Study** | CONTROL |
-| **Master Device Project** (with NEUROMECHA) | AI / CTRL / HW |
-| **Indy Hand Project** (with NEUROMECHA) | AI / CTRL / HW |
-| **Slave Robot Project** | CTRL / HW |
-| **Metarobot Competition** | CTRL / HW |
-| **Koreatech Start-up Contest** | AI / CTRL / HW |
-| **Robo World Expo** | - |
-| **Metarobot Workshop** | - |
-| **New Member Training** | - |
-
+<div style="width: 100%; overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; font-size: 1.1em; text-align: center;">
+    <thead>
+      <tr style="background-color: #f2f2f2; border-bottom: 2px solid #333;">
+        <th style="padding: 15px; width: 70%;">Activity / Project</th>
+        <th style="padding: 15px; width: 30%;">Department</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>RED SHOW</strong><br><span style="font-size: 0.85em; color: #666;">Two Wheel Balance Robot</span></td>
+        <td style="padding: 15px;">AI / CTRL / HW</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd; background-color: #fffbe6;">
+        <td style="padding: 15px;"><strong>Zeus Zero Robot Challenge</strong> 🥇<br><span style="font-size: 0.85em; color: #d35400; font-weight: bold;">Presidential Award (대통령상)</span></td>
+        <td style="padding: 15px;">**ALL**</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Genesis Study</strong></td>
+        <td style="padding: 15px;">AI</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Sim2Real Study</strong> (Isaac Sim)</td>
+        <td style="padding: 15px;">AI / CTRL</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Xenomai & Raspberry Pi Study</strong></td>
+        <td style="padding: 15px;">CONTROL</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Master Device Project</strong> (with NEUROMECHA)</td>
+        <td style="padding: 15px;">ALL</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Indy Hand Project</strong> (with NEUROMECHA)</td>
+        <td style="padding: 15px;">ALL</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Slave Robot Project</strong></td>
+        <td style="padding: 15px;">CTRL / HW</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Metarobot Competition</strong></td>
+        <td style="padding: 15px;">CTRL / HW</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;"><strong>Koreatech Start-up Contest</strong></td>
+        <td style="padding: 15px;">ALL</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;">Robo World Expo</td>
+        <td style="padding: 15px;">-</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <td style="padding: 15px;">Metarobot Workshop</td>
+        <td style="padding: 15px;">-</td>
+      </tr>
+      <tr>
+        <td style="padding: 15px;">New Member Training</td>
+        <td style="padding: 15px;">-</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 
 ## ⚙️ METAROBOT RESOURCES
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
   학교와 기업의 지원을 통해 <strong>현업 수준의 High-End Resource</strong>를 보유하고 있습니다.<br>
-  연구회원이라면 누구나 자유롭게 활용 가능합니다.
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-    <h3 style="text-align: center; margin-top: 0;">⚡ Computing</h3>
-    <ul style="font-size: 0.9em; padding-left: 20px;">
+  <div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 25px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="text-align: center; margin-top: 0; color: #2c3e50;">⚡ Computing</h3>
+    <ul style="font-size: 1.0em; padding-left: 20px; line-height: 1.6;">
       <li><strong>NVIDIA Jetson AGX Thor</strong></li>
       <li>NVIDIA Jetson AGX Orin</li>
       <li>NVIDIA Jetson Orin Nano</li>
@@ -82,9 +126,9 @@ toc_label: "CONTENTS"
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-    <h3 style="text-align: center; margin-top: 0;">🦾 Actuators</h3>
-    <ul style="font-size: 0.9em; padding-left: 20px;">
+  <div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 25px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="text-align: center; margin-top: 0; color: #2c3e50;">🦾 Actuators</h3>
+    <ul style="font-size: 1.0em; padding-left: 20px; line-height: 1.6;">
       <li><strong>Indy7 (Neuromecha)</strong></li>
       <li>UR Manipulator</li>
       <li>Dynamixel (Various)</li>
@@ -93,9 +137,9 @@ toc_label: "CONTENTS"
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-    <h3 style="text-align: center; margin-top: 0;">🛠️ Sensors & Mfg</h3>
-    <ul style="font-size: 0.9em; padding-left: 20px;">
+  <div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 25px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <h3 style="text-align: center; margin-top: 0; color: #2c3e50;">🛠️ Sensors & Mfg</h3>
+    <ul style="font-size: 1.0em; padding-left: 20px; line-height: 1.6;">
       <li><strong>Bambu Lab H2D</strong></li>
       <li>RealSense D435i</li>
       <li>LiDAR Sensors</li>
@@ -109,8 +153,8 @@ toc_label: "CONTENTS"
 <br>
 <hr>
 
-<div style="text-align: center; margin-top: 50px; margin-bottom: 50px;">
-  <h3 style="font-weight: 900;">🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
-  <p style="color: #666; margin-bottom: 30px;">Make your imagination a reality with METAROBOT.</p>
-  <a href="mailto:your-email@example.com" class="btn btn--primary btn--large">Contact Us</a>
+<div style="text-align: center; margin-top: 60px; margin-bottom: 60px;">
+  <h3 style="font-weight: 900; font-size: 1.5em;">🔥 ROBOT에 가슴이 뛰는 여러분을 기다립니다.</h3>
+  <p style="color: #666; margin-bottom: 30px; font-size: 1.1em;">Make your imagination a reality with METAROBOT.</p>
+  <a href="mailto:your-email@example.com" class="btn btn--primary btn--large" style="padding: 15px 40px; font-size: 1.2em;">Contact Us</a>
 </div>
