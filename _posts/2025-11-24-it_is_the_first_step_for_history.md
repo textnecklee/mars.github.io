@@ -126,7 +126,7 @@ toc_label: "CONTENTS"
       <li>NVIDIA Jetson Orin Nano</li>
       <li>Raspberry Pi 5 (Multiple)</li>
       <li>Synology NAS (Server)</li>
-      <li>RTX 4060 SUPER WS</li>
+      <li>RTX 4080 SUPER WS</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; background-color: #f8f9fa; padding: 25px; border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
