@@ -1,0 +1,21 @@
+---
+---
+@charset "utf-8";
+
+/* 기존 테마의 디자인을 먼저 불러옵니다 */
+@import "minimal-mistakes";
+
+/* ▼ 아바타 크기 강제 조절 코드 ▼ */
+.author__avatar img {
+    max-width: none !important; /* 크기 제한 해제 */
+    width: 250px !important;    /* 너비 (원하는 만큼 숫자를 키우세요) */
+    height: 250px !important;   /* 높이 (너비랑 똑같이 맞춰주세요) */
+    object-fit: cover;          /* 사진이 찌그러지지 않게 꽉 채움 */
+}
+
+/* (선택사항) 왼쪽 사이드바 자체를 조금 더 넓히고 싶다면 아래 주석을 푸세요 */
+/*
+.sidebar {
+    width: 300px !important;
+}
+*/
